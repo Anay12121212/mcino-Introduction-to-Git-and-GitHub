@@ -16,5 +16,3 @@ Output
 _© 2022 XYZ, Inc._
 
 Typo fix example for the Git merge exercise.
-
-Another merge demonstration line.
